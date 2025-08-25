@@ -15,6 +15,6 @@ public class Add_Two_No {
 
         int c = a+b ;
         System.out.println("The sum of a and b is: " + c );
-
     }
 }
+

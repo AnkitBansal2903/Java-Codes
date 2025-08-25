@@ -17,5 +17,7 @@ public class Compound_Interest {
 
         double I = P*(1 + R/100)*T ;
         System.out.println("Compound Interest is: " + I);
+        
     }
 }
+
